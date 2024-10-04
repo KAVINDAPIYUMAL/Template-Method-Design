@@ -1,0 +1,6 @@
+D:\MyLearns\GIT\Design_Patterns\Template Method Design\Template-Method-Design\Template-Method-Design\Template-Method-Design\bin\Debug\Template-Method-Design.exe.config
+D:\MyLearns\GIT\Design_Patterns\Template Method Design\Template-Method-Design\Template-Method-Design\Template-Method-Design\bin\Debug\Template-Method-Design.exe
+D:\MyLearns\GIT\Design_Patterns\Template Method Design\Template-Method-Design\Template-Method-Design\Template-Method-Design\bin\Debug\Template-Method-Design.pdb
+D:\MyLearns\GIT\Design_Patterns\Template Method Design\Template-Method-Design\Template-Method-Design\Template-Method-Design\obj\Debug\Template-Method-Design.csproj.CoreCompileInputs.cache
+D:\MyLearns\GIT\Design_Patterns\Template Method Design\Template-Method-Design\Template-Method-Design\Template-Method-Design\obj\Debug\Template-Method-Design.exe
+D:\MyLearns\GIT\Design_Patterns\Template Method Design\Template-Method-Design\Template-Method-Design\Template-Method-Design\obj\Debug\Template-Method-Design.pdb
